@@ -5,6 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: Natural Diamond
+    url: https://naturaldiamondnetwork.com
+  - name: Natural Diamond Web Office
+    url: https://wo.naturaldiamondnetwork.com
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
