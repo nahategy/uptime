@@ -40,9 +40,9 @@
     "url": "https://wo.naturaldiamondnetwork.com",
     "icon": "https://favicons.githubusercontent.com/wo.naturaldiamondnetwork.com",
     "slug": "natural-diamond-web-office",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 1601,
     "timeMonth": 1601,
     "timeYear": 1601,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-08": 0
+    }
   }
 ]
