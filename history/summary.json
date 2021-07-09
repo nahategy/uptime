@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 74,
-    "timeDay": 68,
+    "timeDay": 80,
     "timeWeek": 74,
     "timeMonth": 74,
     "timeYear": 74,
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1377,
-    "timeDay": 1501,
-    "timeWeek": 1377,
-    "timeMonth": 1377,
-    "timeYear": 1377,
+    "time": 1376,
+    "timeDay": 1370,
+    "timeWeek": 1376,
+    "timeMonth": 1376,
+    "timeYear": 1376,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/wo.naturaldiamondnetwork.com",
     "slug": "natural-diamond-web-office",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 1828,
-    "timeDay": 2506,
-    "timeWeek": 1828,
-    "timeMonth": 1828,
-    "timeYear": 1828,
-    "dailyMinutesDown": {
-      "2021-07-08": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1821,
+    "timeDay": 2593,
+    "timeWeek": 1821,
+    "timeMonth": 1821,
+    "timeYear": 1821,
+    "dailyMinutesDown": {}
   }
 ]
