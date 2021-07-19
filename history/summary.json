@@ -40,17 +40,19 @@
     "url": "https://wo.naturaldiamondnetwork.com",
     "icon": "https://favicons.githubusercontent.com/wo.naturaldiamondnetwork.com",
     "slug": "natural-diamond-web-office",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1682,
-    "timeDay": 1765,
-    "timeWeek": 1525,
-    "timeMonth": 1682,
-    "timeYear": 1682,
-    "dailyMinutesDown": {}
+    "time": 1621,
+    "timeDay": 1121,
+    "timeWeek": 1394,
+    "timeMonth": 1621,
+    "timeYear": 1621,
+    "dailyMinutesDown": {
+      "2021-07-19": 0
+    }
   }
 ]
