@@ -4,9 +4,9 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 87,
     "timeMonth": 89,
     "timeYear": 103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Natural Diamond",
@@ -44,11 +46,11 @@
     "icon": "https://favicons.githubusercontent.com/wo.naturaldiamondnetwork.com",
     "slug": "natural-diamond-web-office",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.39%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.50%",
     "time": 1540,
     "timeDay": 1218,
     "timeWeek": 1478,
