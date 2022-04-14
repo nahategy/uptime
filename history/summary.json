@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 127,
-    "timeWeek": 87,
+    "timeDay": 73,
+    "timeWeek": 85,
     "timeMonth": 89,
     "timeYear": 103,
-    "dailyMinutesDown": {
-      "2022-04-13": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Natural Diamond",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1240,
-    "timeDay": 964,
+    "time": 1239,
+    "timeDay": 1188,
     "timeWeek": 1108,
-    "timeMonth": 1055,
-    "timeYear": 1240,
+    "timeMonth": 1063,
+    "timeYear": 1239,
     "dailyMinutesDown": {
       "2022-03-08": 27,
       "2021-08-05": 94
@@ -51,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.39%",
     "uptimeYear": "98.50%",
-    "time": 1540,
-    "timeDay": 1218,
-    "timeWeek": 1478,
-    "timeMonth": 1432,
-    "timeYear": 1540,
+    "time": 1539,
+    "timeDay": 1394,
+    "timeWeek": 1442,
+    "timeMonth": 1438,
+    "timeYear": 1539,
     "dailyMinutesDown": {
       "2022-04-05": 820,
       "2022-04-04": 1440,
